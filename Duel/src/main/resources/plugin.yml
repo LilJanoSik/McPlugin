@@ -1,0 +1,9 @@
+main: me.liljanosik.duels.Duels
+name: Duels
+version: 1.0
+author: LilJanoSik
+api-version: 1.13
+
+commands:
+  duels:
+    aliases: [ dl ]

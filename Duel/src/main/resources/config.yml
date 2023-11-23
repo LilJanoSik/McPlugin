@@ -1,0 +1,12 @@
+# Locations of the PvP arena the players will be teleported to.
+arena-locations:
+  1:
+    x: 10
+    y: 70
+    z: 10
+    world: world
+  2:
+    x: -10
+    y: 70
+    z: -10
+    world: world
